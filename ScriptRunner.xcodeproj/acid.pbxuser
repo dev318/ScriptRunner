@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1110, 525}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{61, 93}, {1169, 638}}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* ScriptRunner_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 264}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = E16B3F881120A6DF00D552BC /* ScriptRunner */;
+		activeTarget = 8D1107260486CEB800E47090 /* ScriptRunner */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ScriptRunner */,
+		);
+		codeSenseManager = E16B3F931120A6EB00D552BC /* Code sense */;
+		executables = (
+			E16B3F881120A6DF00D552BC /* ScriptRunner */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					712,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288519370;
+			PBXWorkspaceStateSaveDate = 288519370;
+		};
+		perUserProjectItems = {
+			E108910B11312C0500120F51 /* PBXTextBookmark */ = E108910B11312C0500120F51 /* PBXTextBookmark */;
+			E11723F1112A2DE700A2DA21 /* PBXTextBookmark */ = E11723F1112A2DE700A2DA21 /* PBXTextBookmark */;
+			E132F9A8112232A300B75BCC /* PlistBookmark */ = E132F9A8112232A300B75BCC /* PlistBookmark */;
+			E132FA4B1122611800B75BCC /* PlistBookmark */ = E132FA4B1122611800B75BCC /* PlistBookmark */;
+			E14CFD15112A7F920000BB3E /* PBXBookmark */ = E14CFD15112A7F920000BB3E /* PBXBookmark */;
+			E178A9C11132F376004B7465 /* PBXTextBookmark */ = E178A9C11132F376004B7465 /* PBXTextBookmark */;
+			E1BA8B6911309356001802E0 /* PBXTextBookmark */ = E1BA8B6911309356001802E0 /* PBXTextBookmark */;
+			E1BA8B6A11309356001802E0 /* PBXTextBookmark */ = E1BA8B6A11309356001802E0 /* PBXTextBookmark */;
+			E1BA8B6B11309356001802E0 /* PBXTextBookmark */ = E1BA8B6B11309356001802E0 /* PBXTextBookmark */;
+			E1E3401F11214C7200C1DC9A /* PBXTextBookmark */ = E1E3401F11214C7200C1DC9A /* PBXTextBookmark */;
+			E1E3402011214C7200C1DC9A /* PBXTextBookmark */ = E1E3402011214C7200C1DC9A /* PBXTextBookmark */;
+		};
+		sourceControlManager = E16B3F921120A6EB00D552BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 242}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 256}";
+		};
+	};
+	8D1107260486CEB800E47090 /* ScriptRunner */ = {
+		activeExec = 0;
+		executables = (
+			E16B3F881120A6DF00D552BC /* ScriptRunner */,
+		);
+	};
+	E108910B11312C0500120F51 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1E33C621120E8E700C1DC9A /* ScriptController.m */;
+		name = "ScriptController.m: 295";
+		rLen = 0;
+		rLoc = 8370;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 400;
+	};
+	E11723F1112A2DE700A2DA21 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1E33EFE1121396E00C1DC9A /* script.sh */;
+		name = "script.sh: 11";
+		rLen = 22;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 0;
+	};
+	E132F9A8112232A300B75BCC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ScriptRunner-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E132FA4B1122611800B75BCC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E1E33D871121079600C1DC9A /* settings.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			scriptSudo,
+		);
+		name = /Users/acid/code/ScriptRunner/ScriptRunner/settings.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E14CFD15112A7F920000BB3E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E1E33CB01120F40400C1DC9A /* ScriptRunner.icns */;
+	};
+	E16B3F881120A6DF00D552BC /* ScriptRunner */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScriptRunner;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E16B3F921120A6EB00D552BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E16B3F931120A6EB00D552BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E178A9C11132F376004B7465 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1E33C621120E8E700C1DC9A /* ScriptController.m */;
+		name = "ScriptController.m: 295";
+		rLen = 0;
+		rLoc = 8370;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 4527;
+	};
+	E1BA8B6911309356001802E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1E34071112153F700C1DC9A /* ArgumentArrayController.m */;
+		name = "ArgumentArrayController.m: 10";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	E1BA8B6A11309356001802E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1E34070112153F700C1DC9A /* ArgumentArrayController.h */;
+		name = "ArgumentArrayController.h: 12";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	E1BA8B6B11309356001802E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E1E33C611120E8E700C1DC9A /* ScriptController.h */;
+		name = "ScriptController.h: 17";
+		rLen = 23;
+		rLoc = 391;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 145;
+	};
+	E1E33C611120E8E700C1DC9A /* ScriptController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 858}}";
+			sepNavSelRange = "{391, 23}";
+			sepNavVisRange = "{145, 578}";
+			sepNavWindowFrame = "{{15, 135}, {1169, 638}}";
+		};
+	};
+	E1E33C621120E8E700C1DC9A /* ScriptController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 4602}}";
+			sepNavSelRange = "{8370, 0}";
+			sepNavVisRange = "{4527, 885}";
+			sepNavWindowFrame = "{{62, 140}, {1169, 638}}";
+		};
+	};
+	E1E33D871121079600C1DC9A /* settings.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{44, 40}, {1169, 638}}";
+		};
+	};
+	E1E33EFE1121396E00C1DC9A /* script.sh */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {580, 237}}";
+			sepNavSelRange = "{238, 22}";
+			sepNavVisRange = "{0, 317}";
+			sepNavWindowFrame = "{{84, 72}, {1169, 638}}";
+		};
+	};
+	E1E3401F11214C7200C1DC9A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 16";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 0;
+	};
+	E1E3402011214C7200C1DC9A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	E1E34070112153F700C1DC9A /* ArgumentArrayController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 267}}";
+			sepNavSelRange = "{254, 0}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	E1E34071112153F700C1DC9A /* ArgumentArrayController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 267}}";
+			sepNavSelRange = "{212, 0}";
+			sepNavVisRange = "{0, 219}";
+		};
+	};
+}

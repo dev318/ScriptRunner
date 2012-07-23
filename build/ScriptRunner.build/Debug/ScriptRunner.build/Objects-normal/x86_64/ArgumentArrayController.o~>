@@ -1,0 +1,4 @@
+/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m:12: warning: incomplete implementation of class 'ArgumentArrayController'
+/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m:12: warning: method definition for '-selectPrevious:' not found
+/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m:12: warning: method definition for '-selectNext:' not found
+/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m:12: warning: method definition for '-insert:' not found

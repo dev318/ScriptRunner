@@ -1,0 +1,593 @@
+TScriptRunner
+v7
+r0
+t288397621.393244
+cCheck dependencies
+cProcessInfoPlistFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Info.plist ScriptRunner-Info.plist
+cCopyStringsFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/MainMenu.xib
+cCpResource build/Release/ScriptRunner.app/Contents/Resources/ScriptRunner.icns ScriptRunner.icns
+cCopyPlistFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/settings.plist settings.plist
+cCpResource build/Release/ScriptRunner.app/Contents/Resources/script.sh script.sh
+cProcessPCH /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch.gch ScriptRunner_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch.gch ScriptRunner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch.gch ScriptRunner_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/main.o /Users/acid/code/ScriptRunner/ScriptRunner/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptController.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ArgumentArrayController.o /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner normal x86_64
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/main.o /Users/acid/code/ScriptRunner/ScriptRunner/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptController.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ArgumentArrayController.o /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner normal i386
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/main.o /Users/acid/code/ScriptRunner/ScriptRunner/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptController.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ArgumentArrayController.o /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner normal ppc
+cCreateUniversalBinary /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app.dSYM /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner
+cTouch /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AB44D2500000000000000EE
+t1253330213
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.h
+c000000004B711F070000000000000107
+t1265704711
+s263
+i<Cocoa/Cocoa.h>
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m
+c000000004B711D8D00000000000000DB
+t1265704333
+s219
+i"ArgumentArrayController.h"
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/InfoPlist.strings
+c000000004B706F5F000000000000002D
+t1265659743
+s45
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/MainMenu.xib
+c000000004B724CE3000000000003D4A4
+t1265781987
+s251044
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.h
+c000000004B725FED0000000000000661
+t1265786861
+s1633
+i<Cocoa/Cocoa.h>
+i"ArgumentArrayController.h"
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m
+c000000004B731DC40000000000002857
+t1265835460
+s10327
+i"ScriptController.h"
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner.icns
+c000000004B70BC840000000000015E29
+t1265679492
+s89641
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h
+c000000004B70B17E0000000000000147
+t1265676670
+s327
+i<Cocoa/Cocoa.h>
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m
+c000000004B70B17E0000000000000180
+t1265676670
+s384
+i"ScriptRunnerAppDelegate.h"
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner_Prefix.pch
+c000000004B706F5F000000000000009B
+t1265659743
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app
+t1265846299
+s102
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app.dSYM
+t1265846299
+s102
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Info.plist
+t1265772989
+s953
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner
+t1265846299
+s95720
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/PkgInfo
+t1265772989
+s8
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1265772989
+s92
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/English.lproj/MainMenu.nib
+t1265782000
+s52926
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/ScriptRunner.icns
+t1265772989
+s89641
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/script.sh
+t1265772989
+s317
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/settings.plist
+t1265772989
+s785
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ArgumentArrayController.o
+t1265773014
+s4936
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptController.o
+t1265846293
+s51772
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner
+t1265846293
+s26488
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner.LinkFileList
+c000000004B7229BD000000000000018D
+t1265772989
+s397
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunnerAppDelegate.o
+t2
+s0
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/main.o
+t1265773014
+s4860
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ArgumentArrayController.o
+t1265773014
+s5004
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptController.o
+t1265846299
+s57488
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner
+t1265846299
+s26088
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner.LinkFileList
+c000000004B7229BD000000000000018A
+t1265772989
+s394
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunnerAppDelegate.o
+t2
+s0
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/main.o
+t1265773014
+s4888
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ArgumentArrayController.o
+t1265773012
+s5948
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptController.o
+t1265846281
+s77060
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner
+t1265846281
+s35968
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner.LinkFileList
+c000000004B7229BD0000000000000193
+t1265772989
+s403
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunnerAppDelegate.o
+t2
+s0
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/main.o
+t1265773012
+s5064
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/main.m
+c000000004B70B12F0000000000000100
+t1265676591
+s256
+i<Cocoa/Cocoa.h>
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/script.sh
+c000000004B713A06000000000000013D
+t1265711622
+s317
+
+N/Users/acid/code/ScriptRunner/ScriptRunner/settings.plist
+c000000004B7229910000000000000311
+t1265772945
+s785
+
+N/var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch.gch
+t1265773005
+s49901872
+
+N/var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch.gch
+t1265773010
+s50057456
+
+N/var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch.gch
+t1265773006
+s52826544
+
+NScriptRunner-Info.plist
+c000000004B70BC7100000000000003EE
+t1265679473
+s1006
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288397621#288397621#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ArgumentArrayController.o /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287465814.206076
+e287465814.394200
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ArgumentArrayController.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m287465814#287465814#0(0"0(0#0#68"/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m4300885448#1669"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/i386 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ArgumentArrayController.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptController.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287538978.731096
+e287539093.508014
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptController.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController awakeFromNib]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:37: warning: assignment makes integer from pointer without a cast
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController insertFileNameAsArgument:]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: 'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: (Messages without a matching method signature
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: will be assumed to return 'id' and accept
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: '...' as arguments.)
+lSLF07#2@69"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287538978#287539093#0(829"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController awakeFromNib]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:37: warning: assignment makes integer from pointer without a cast/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController insertFileNameAsArgument:]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: 'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: (Messages without a matching method signature/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: will be assumed to return 'id' and accept/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: '...' as arguments.)3(22@52"Assignment makes integer from pointer without a cast287538993#111#128#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#37#0#37#0#0"0(22@56"'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'287538994#363#132#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#63#0#63#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)287538994#495#121#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#63#0#63#0#0"0(0#0#61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m4300885448#1655"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/i386 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptController.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunnerAppDelegate.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287404847.131397
+e287404852.143684
+r0
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunnerAppDelegate.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m:9:
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h:11: error: cannot find protocol declaration for 'NSApplicationDelegate'
+lSLF07#2@76"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287404847#287404852#0(235"In file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m:9:/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h:11: error: cannot find protocol declaration for 'NSApplicationDelegate'1(4@60"Cannot find protocol declaration for 'NSApplicationDelegate'287404849#94#141#2(7@90"In file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287404849#18446744073709551615#0#0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287369470#9#0#9#0#0"0(13@132"Cannot find protocol declaration for 'NSApplicationDelegate' in /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287404849#18446744073709551615#0#0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287369470#11#0#11#0#0"0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287369470#11#0#11#0#0"0(0#0#68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m4300885448#1669"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/i386 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunnerAppDelegate.o1#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/main.o /Users/acid/code/ScriptRunner/ScriptRunner/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287465812.954698
+e287465814.205936
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/main.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/acid/code/ScriptRunner/ScriptRunner/main.m287465812#287465814#0(0"0(0#0#49"/Users/acid/code/ScriptRunner/ScriptRunner/main.m4300885448#1631"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/i386 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/main.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/main.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ArgumentArrayController.o /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287465814.660640
+e287465814.842673
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ArgumentArrayController.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m287465814#287465814#0(0"0(0#0#68"/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m4300885448#1663"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/ppc -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ArgumentArrayController.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptController.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287539081.825384
+e287539099.340226
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptController.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController awakeFromNib]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:37: warning: assignment makes integer from pointer without a cast
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController insertFileNameAsArgument:]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: 'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: (Messages without a matching method signature
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: will be assumed to return 'id' and accept
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: '...' as arguments.)
+lSLF07#2@69"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287539081#287539099#0(829"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController awakeFromNib]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:37: warning: assignment makes integer from pointer without a cast/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController insertFileNameAsArgument:]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: 'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: (Messages without a matching method signature/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: will be assumed to return 'id' and accept/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: '...' as arguments.)3(22@52"Assignment makes integer from pointer without a cast287539096#111#128#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#37#0#37#0#0"0(22@56"'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'287539096#363#132#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#63#0#63#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)287539096#495#121#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#63#0#63#0#0"0(0#0#61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m4300885448#1649"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/ppc -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptController.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunnerAppDelegate.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287404853.325911
+e287404855.821465
+r0
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunnerAppDelegate.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m:9:
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h:11: error: cannot find protocol declaration for 'NSApplicationDelegate'
+lSLF07#2@76"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287404853#287404855#0(235"In file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m:9:/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h:11: error: cannot find protocol declaration for 'NSApplicationDelegate'1(4@60"Cannot find protocol declaration for 'NSApplicationDelegate'287404854#94#141#2(7@90"In file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287404854#18446744073709551615#0#0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287369470#9#0#9#0#0"0(13@132"Cannot find protocol declaration for 'NSApplicationDelegate' in /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287404854#18446744073709551615#0#0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287369470#11#0#11#0#0"0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287369470#11#0#11#0#0"0(0#0#68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m4300885448#1663"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/ppc -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunnerAppDelegate.o1#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/main.o /Users/acid/code/ScriptRunner/ScriptRunner/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287465814.394486
+e287465814.660515
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/main.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/acid/code/ScriptRunner/ScriptRunner/main.m287465814#287465814#0(0"0(0#0#49"/Users/acid/code/ScriptRunner/ScriptRunner/main.m4300885448#1625"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/ppc -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/main.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ArgumentArrayController.o /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287465812.761945
+e287465812.954561
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ArgumentArrayController.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m287465812#287465812#0(0"0(0#0#68"/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m4300885448#1675"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/x86_64 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentArrayController.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ArgumentArrayController.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptController.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287538978.690082
+e287539081.314300
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptController.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController awakeFromNib]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:37: warning: assignment makes integer from pointer without a cast
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController insertFileNameAsArgument:]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: 'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: (Messages without a matching method signature
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: will be assumed to return 'id' and accept
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: '...' as arguments.)
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController numberOfRowsInTableView:]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:75: warning: conflicting types for '-(int)numberOfRowsInTableView:(NSTableView *)tableView'
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:495: warning: previous declaration of '-(NSInteger)numberOfRowsInTableView:(NSTableView *)tableView'
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController tableView:objectValueForTableColumn:row:]':
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:81: warning: conflicting types for '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(int)row'
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:496: warning: previous declaration of '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row'
+lSLF07#2@69"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287538978#287539081#0(1899"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController awakeFromNib]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:37: warning: assignment makes integer from pointer without a cast/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController insertFileNameAsArgument:]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: 'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: (Messages without a matching method signature/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: will be assumed to return 'id' and accept/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: '...' as arguments.)/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController numberOfRowsInTableView:]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:75: warning: conflicting types for '-(int)numberOfRowsInTableView:(NSTableView *)tableView'/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:495: warning: previous declaration of '-(NSInteger)numberOfRowsInTableView:(NSTableView *)tableView'/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController tableView:objectValueForTableColumn:row:]':/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:81: warning: conflicting types for '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(int)row'/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:496: warning: previous declaration of '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row'7(22@52"Assignment makes integer from pointer without a cast287538993#111#128#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#37#0#37#0#0"0(22@56"'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'287538995#363#132#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#63#0#63#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)287538995#495#121#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#63#0#63#0#0"0(22@78"Conflicting types for '-(int)numberOfRowsInTableView:(NSTableView *)tableView'287538996#952#154#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#75#0#75#0#25"conflicting types for '*'0(22@86"Previous declaration of '-(NSInteger)numberOfRowsInTableView:(NSTableView *)tableView'287538996#1106#197#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h236253966#495#0#495#0#0"0(22@131"Conflicting types for '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(int)row'287538996#1442#207#0(6@61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m287528260#81#0#81#0#25"conflicting types for '*'0(22@139"Previous declaration of '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row'287538996#1649#250#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h236253966#496#0#496#0#0"0(0#0#61"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m4300885448#1661"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/x86_64 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptController.o0#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunnerAppDelegate.o /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287404842.326780
+e287404845.983787
+r0
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunnerAppDelegate.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m:9:
+o/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h:11: error: cannot find protocol declaration for 'NSApplicationDelegate'
+lSLF07#2@76"Compile /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287404842#287404845#0(235"In file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m:9:/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h:11: error: cannot find protocol declaration for 'NSApplicationDelegate'1(4@60"Cannot find protocol declaration for 'NSApplicationDelegate'287404844#94#141#2(7@90"In file included from /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287404844#18446744073709551615#0#0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m287369470#9#0#9#0#0"0(13@132"Cannot find protocol declaration for 'NSApplicationDelegate' in /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287404844#18446744073709551615#0#0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287369470#11#0#11#0#0"0(6@68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.h287369470#11#0#11#0#0"0(0#0#68"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m4300885448#1675"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/x86_64 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunnerAppDelegate.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunnerAppDelegate.o1#
+
+CCompileC build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/main.o /Users/acid/code/ScriptRunner/ScriptRunner/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287465810.950107
+e287465812.761712
+r1
+xCompileC
+xbuild/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/main.o
+x/Users/acid/code/ScriptRunner/ScriptRunner/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/acid/code/ScriptRunner/ScriptRunner/main.m287465810#287465812#0(0"0(0#0#49"/Users/acid/code/ScriptRunner/ScriptRunner/main.m4300885448#1637"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/x86_64 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -include /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch -c /Users/acid/code/ScriptRunner/ScriptRunner/main.m -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/MainMenu.xib
+s287474796.898825
+e287474800.354218
+r1
+xCompileXIB
+x/Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib287474796#287474800#0(0"0(0#0#69"/Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/MainMenu.xib4300885448#346"    cd /Users/acid/code/ScriptRunner/ScriptRunner    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/English.lproj/MainMenu.nib /Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/MainMenu.xib0#
+
+CCopyPlistFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/settings.plist settings.plist
+s287465789.619880
+e287465789.677472
+r1
+xCopyPlistFile
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/settings.plist
+xsettings.plist
+lSLF07#2@19"Copy settings.plist287465789#287465789#0(0"0(0#0#57"/Users/acid/code/ScriptRunner/ScriptRunner/settings.plist4300885448#258"    cd /Users/acid/code/ScriptRunner/ScriptRunner    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist settings.plist --outdir /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources0#
+
+CCopyStringsFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s287465789.510182
+e287465789.618659
+r1
+xCopyStringsFile
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings287465789#287465789#0(0"0(0#0#74"/Users/acid/code/ScriptRunner/ScriptRunner/English.lproj/InfoPlist.strings4300885448#380"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/ScriptRunner.app/Contents/Resources/ScriptRunner.icns ScriptRunner.icns
+s287465789.618776
+e287465789.661103
+r1
+xCpResource
+xbuild/Release/ScriptRunner.app/Contents/Resources/ScriptRunner.icns
+xScriptRunner.icns
+lSLF07#2@22"Copy ScriptRunner.icns287465789#287465789#0(0"0(0#0#60"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner.icns4300885448#373"    cd /Users/acid/code/ScriptRunner/ScriptRunner    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner.icns /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources0#
+
+CCpResource build/Release/ScriptRunner.app/Contents/Resources/script.sh script.sh
+s287465789.677589
+e287465789.683424
+r1
+xCpResource
+xbuild/Release/ScriptRunner.app/Contents/Resources/script.sh
+xscript.sh
+lSLF07#2@14"Copy script.sh287465789#287465789#0(0"0(0#0#52"/Users/acid/code/ScriptRunner/ScriptRunner/script.sh4300885448#365"    cd /Users/acid/code/ScriptRunner/ScriptRunner    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/acid/code/ScriptRunner/ScriptRunner/script.sh /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner normal "x86_64 i386 ppc"
+s287539099.432976
+e287539099.466269
+r1
+xCreateUniversalBinary
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@105"CreateUniversalBinary build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner normal "x86_64 i386 ppc"287539099#287539099#0(0"0(0#0#58"/Users/acid/code/ScriptRunner/ScriptRunner/x86_64 i386 ppc4300885448#571"    cd /Users/acid/code/ScriptRunner/ScriptRunner    /usr/bin/lipo -create /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner -output /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner0#
+
+CGenerateDSYMFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app.dSYM /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner
+s287539099.466431
+e287539099.905070
+r1
+xGenerateDSYMFile
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app.dSYM
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner
+lSLF07#2@111"GenerateDSYMFile build/Release/ScriptRunner.app.dSYM build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner287539099#287539099#0(0"0(0#0#101"/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner4300885448#266"    cd /Users/acid/code/ScriptRunner/ScriptRunner    /Developer/usr/bin/dsymutil /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/MacOS/ScriptRunner -o /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app.dSYM0#
+
+CLd /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner normal i386
+s287539093.508225
+e287539093.653579
+r1
+xLd
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner
+xnormal
+xi386
+lSLF07#2@132"Link /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner287539093#287539093#0(0"0(0#0#0"4300885448#617"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -filelist /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/i386/ScriptRunner0#
+
+CLd /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner normal ppc
+s287539099.340404
+e287539099.432820
+r1
+xLd
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner
+xnormal
+xppc
+lSLF07#2@131"Link /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner287539099#287539099#0(0"0(0#0#0"4300885448#614"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -filelist /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/ppc/ScriptRunner0#
+
+CLd /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner normal x86_64
+s287539081.314587
+e287539081.824942
+r1
+xLd
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner
+xnormal
+xx86_64
+lSLF07#2@134"Link /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner287539081#287539081#0(0"0(0#0#0"4300885448#623"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -filelist /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/Objects-normal/x86_64/ScriptRunner0#
+
+CProcessInfoPlistFile /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Info.plist ScriptRunner-Info.plist
+s287465789.505695
+e287465789.510068
+r1
+xProcessInfoPlistFile
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Info.plist
+xScriptRunner-Info.plist
+lSLF07#2@31"Process ScriptRunner-Info.plist287465789#287465789#0(0"0(0#0#66"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner-Info.plist4300885448#341"    cd /Users/acid/code/ScriptRunner/ScriptRunner    builtin-infoPlistUtility ScriptRunner-Info.plist -genpkginfo /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch.gch ScriptRunner_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287465791.926201
+e287465805.662642
+r1
+xProcessPCH
+x/var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch.gch
+xScriptRunner_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile ScriptRunner_Prefix.pch287465791#287465805#0(0"0(0#0#66"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner_Prefix.pch4300885448#1532"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/x86_64 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner_Prefix.pch -o /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-bgbcdffmuawtkebdwcyizssnnljv/ScriptRunner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch.gch ScriptRunner_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s287465805.663122
+e287465810.949845
+r1
+xProcessPCH
+x/var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch.gch
+xScriptRunner_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile ScriptRunner_Prefix.pch287465805#287465810#0(0"0(0#0#66"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner_Prefix.pch4300885448#1523"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/ppc -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner_Prefix.pch -o /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-diycyqowoyqdwgeuobuidddculgd/ScriptRunner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch.gch ScriptRunner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287465791.927332
+e287465806.610812
+r1
+xProcessPCH
+x/var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch.gch
+xScriptRunner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile ScriptRunner_Prefix.pch287465791#287465806#0(0"0(0#0#66"/Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner_Prefix.pch4300885448#1528"    cd /Users/acid/code/ScriptRunner/ScriptRunner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-generated-files.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-own-target-headers.hmap -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-all-target-headers.hmap -iquote /Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/ScriptRunner-project-headers.hmap -F/Users/acid/code/ScriptRunner/ScriptRunner/build/Release -I/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/include -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources/i386 -I/Users/acid/code/ScriptRunner/ScriptRunner/build/ScriptRunner.build/Release/ScriptRunner.build/DerivedSources -c /Users/acid/code/ScriptRunner/ScriptRunner/ScriptRunner_Prefix.pch -o /var/folders/OF/OFxtT5XeGveVxJ-9UISmEKYTSLk/-Caches-/com.apple.Xcode.1763670396/SharedPrecompiledHeaders/ScriptRunner_Prefix-fnzhotbdlocfoifkaofxpfsawldj/ScriptRunner_Prefix.pch.gch0#
+
+CTouch /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app
+s287539099.905214
+e287539099.909640
+r1
+xTouch
+x/Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app
+lSLF07#2@79"Touch /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app287539099#287539099#0(0"0(0#0#0"4300885448#146"    cd /Users/acid/code/ScriptRunner/ScriptRunner    /usr/bin/touch -c /Users/acid/code/ScriptRunner/ScriptRunner/build/Release/ScriptRunner.app0#
+

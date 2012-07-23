@@ -1,0 +1,4 @@
+In file included from /Users/acid/code/ScriptRunner/ScriptRunner/ArgumentSheetController.m:8:
+/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentSheetController.h:10: error: duplicate interface declaration for class 'NSWindowController'
+/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentSheetController.h:12: error: redefinition of 'struct NSWindowController'
+/Users/acid/code/ScriptRunner/ScriptRunner/ArgumentSheetController.m:11: warning: cannot find interface declaration for 'ArgumentSheetController'

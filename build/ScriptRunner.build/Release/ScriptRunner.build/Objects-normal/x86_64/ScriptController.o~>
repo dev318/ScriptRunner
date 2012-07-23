@@ -1,0 +1,13 @@
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController awakeFromNib]':
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:37: warning: assignment makes integer from pointer without a cast
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController insertFileNameAsArgument:]':
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: 'NSOpenPanel' may not respond to '-setShowsHiddenFiles:'
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: (Messages without a matching method signature
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: will be assumed to return 'id' and accept
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:63: warning: '...' as arguments.)
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController numberOfRowsInTableView:]':
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:75: warning: conflicting types for '-(int)numberOfRowsInTableView:(NSTableView *)tableView'
+/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:495: warning: previous declaration of '-(NSInteger)numberOfRowsInTableView:(NSTableView *)tableView'
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m: In function '-[ScriptController tableView:objectValueForTableColumn:row:]':
+/Users/acid/code/ScriptRunner/ScriptRunner/ScriptController.m:81: warning: conflicting types for '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(int)row'
+/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:496: warning: previous declaration of '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row'
